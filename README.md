@@ -56,4 +56,9 @@ Drillthrough: Right-click any brand name in the Top Competitor Metrics table and
 Tooltip: Hover over any line on the User Satisfaction Trend chart to instantly view key metrics for that brand via the custom tooltip.
 
 File: Competitor Analysis.pbix
+
 Data: mysmartprice_mobile_dataset.csv
+
+
+## License
+This project is licensed under the [MIT License](LICENSE).
